@@ -912,10 +912,10 @@ h1 {
           display: block; } }
 
 @media only screen and (min-width: 48.0625em) {
-  .header {
+  .home {
     position: relative; } }
 
-.header .columns {
+.home .columns {
   position: static; }
 
 .materials {
